@@ -1,0 +1,78 @@
+---
+booktitle: Proceedings of The First Mathematical and Scientific Machine Learning Conference
+orig_bibfile: msml20.bib
+shortname: MSML
+volumn: '107'
+year: '2020'
+start: 2020-07-20
+end: 2020-07-24
+url: http://proceedings.mlr.press
+author:
+  name: PMLR
+conference_number: '1'
+published: 2020-08-16
+layout: proceedings
+publisher: PMLR
+series: Proceedings of Machine Learning Research
+issn: 2640-3498
+id: MSML2020
+month: 0
+cycles: false
+bibtex_editor: Lu, Jianfeng and Ward, Rachel
+editor:
+- given: Jianfeng
+  family: Lu
+- given: Rachel
+  family: Ward
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The First Mathematical and Scientific Machine Learning Conference
+    Held in Princeton University, Princeton, NJ, USA on 20-24 July 2020
+
+  Published as Volume 107 by the Proceedings of Machine Learning Research on 16 August 2020.
+
+  Volume Edited by:
+    Jianfeng Lu
+    Rachel Ward
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 20--24 Jul
+baseurl: "/v107"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v107
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume: 107
+email: ''
+conference:
+  name: Mathematical and Scientific Machine Learning
+  url: 
+  location: Princeton University, Princeton, NJ, USA
+  dates:
+  - 2020-07-20
+  - 2020-07-21
+  - 2020-07-22
+  - 2020-07-23
+  - 2020-07-24
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Original source:  msml20.bib
