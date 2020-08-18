@@ -1,6 +1,6 @@
 # PMLR V107
 
-To suggest fixes to this volume please make a pull request containing the changes requested and a justificaiton for the changes.
+To suggest fixes to this volume please make a pull request containing the changes requested and a justification for the changes.
 
 To edit the details of this conference work edit the [_config.yml](./_config.yml) file and submit a pull request.
 
