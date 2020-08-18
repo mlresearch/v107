@@ -43,6 +43,10 @@ baseurl: "/v107"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
