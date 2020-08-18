@@ -33,7 +33,7 @@ author:
 date: 2020-08-16
 address: 
 publisher: PMLR
-container-title: Proceedings of The First Mathematical and Scientific Machine Learning
+container-title: Proceedings of the First Mathematical and Scientific Machine Learning
   Conference
 volume: '107'
 genre: inproceedings
