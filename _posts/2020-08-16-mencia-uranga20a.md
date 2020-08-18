@@ -7,8 +7,8 @@ abstract: " We introduce SchrödingeRNN, a quantum-inspired generative model for
   biases relevant to these two characteristics are mostly absent from models explored
   to date.  Quantum Mechanics is a natural source of probabilistic models of wave
   behavior. Our model takes the form of a stochastic Schrödinger equation describing
-  the continuous time measurement of a quantum system, and is equivalent to the \\textit{continuous
-  Matrix Product State} (cMPS) representation of wavefunctions in one dimensional
+  the continuous time measurement of a quantum system, and is equivalent to the <em>continuous
+  Matrix Product State</em> (cMPS) representation of wavefunctions in one dimensional
   many-body systems. This constitutes a deep autoregressive architecture in which
   the system’s state is a latent representation of the past observations. We test
   our model on synthetic data sets of stationary and non-stationary signals. This
